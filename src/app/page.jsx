@@ -126,7 +126,7 @@ const Home = () => {
 					</div>
 				</div>
 
-				<div className='h-screen w-screen flex flex-col justify-center items-center snap-center gap-y-10'>
+{/* 				<div className='h-screen w-screen flex flex-col justify-center items-center snap-center gap-y-10'>
 					<div className='font-bold text-white text-6xl mb-10 mt-16'>
 						Learn🧠 About Climate Change
 					</div>
@@ -287,7 +287,7 @@ const Home = () => {
 
 				{/* <div className="h-screen w-screen flex w-full justify-center items-center bg-green-300 snap-center">
         <h1>Fourth page</h1>
-      </div> */}
+      </div> */} */}
 			</div>
 		</main>
 	)
