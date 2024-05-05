@@ -1,0 +1,467 @@
+[
+  {
+    "Year": 1993,
+    "Month": 4,
+    "AVISO (mm)": -24.84
+  },
+  {
+    "Year": 1993,
+    "Month": 8,
+    "AVISO (mm)": -24.55
+  },
+  {
+    "Year": 1993,
+    "Month": 12,
+    "AVISO (mm)": -24.42
+  },
+  {
+    "Year": 1994,
+    "Month": 4,
+    "AVISO (mm)": -21.06
+  },
+  {
+    "Year": 1994,
+    "Month": 8,
+    "AVISO (mm)": -25.17
+  },
+  {
+    "Year": 1994,
+    "Month": 12,
+    "AVISO (mm)": -25.86
+  },
+  {
+    "Year": 1995,
+    "Month": 4,
+    "AVISO (mm)": -21.18
+  },
+  {
+    "Year": 1995,
+    "Month": 8,
+    "AVISO (mm)": -24.12
+  },
+  {
+    "Year": 1995,
+    "Month": 12,
+    "AVISO (mm)": -21.9
+  },
+  {
+    "Year": 1996,
+    "Month": 4,
+    "AVISO (mm)": -18.2
+  },
+  {
+    "Year": 1996,
+    "Month": 8,
+    "AVISO (mm)": -18.49
+  },
+  {
+    "Year": 1996,
+    "Month": 12,
+    "AVISO (mm)": -20.21
+  },
+  {
+    "Year": 1997,
+    "Month": 4,
+    "AVISO (mm)": -16.42
+  },
+  {
+    "Year": 1997,
+    "Month": 8,
+    "AVISO (mm)": -11.37
+  },
+  {
+    "Year": 1997,
+    "Month": 12,
+    "AVISO (mm)": -14.77
+  },
+  {
+    "Year": 1998,
+    "Month": 4,
+    "AVISO (mm)": -7.83
+  },
+  {
+    "Year": 1998,
+    "Month": 8,
+    "AVISO (mm)": -11.24
+  },
+  {
+    "Year": 1998,
+    "Month": 12,
+    "AVISO (mm)": -10.84
+  },
+  {
+    "Year": 1999,
+    "Month": 4,
+    "AVISO (mm)": -6.7
+  },
+  {
+    "Year": 1999,
+    "Month": 8,
+    "AVISO (mm)": -9.17
+  },
+  {
+    "Year": 1999,
+    "Month": 12,
+    "AVISO (mm)": -4.4
+  },
+  {
+    "Year": 2000,
+    "Month": 4,
+    "AVISO (mm)": -5.91
+  },
+  {
+    "Year": 2000,
+    "Month": 8,
+    "AVISO (mm)": -5.34
+  },
+  {
+    "Year": 2000,
+    "Month": 12,
+    "AVISO (mm)": -4.26
+  },
+  {
+    "Year": 2001,
+    "Month": 4,
+    "AVISO (mm)": -1.06
+  },
+  {
+    "Year": 2001,
+    "Month": 8,
+    "AVISO (mm)": -0.85
+  },
+  {
+    "Year": 2001,
+    "Month": 12,
+    "AVISO (mm)": -1.19
+  },
+  {
+    "Year": 2002,
+    "Month": 4,
+    "AVISO (mm)": 0.24
+  },
+  {
+    "Year": 2002,
+    "Month": 8,
+    "AVISO (mm)": 5.56
+  },
+  {
+    "Year": 2002,
+    "Month": 12,
+    "AVISO (mm)": 2.34
+  },
+  {
+    "Year": 2003,
+    "Month": 4,
+    "AVISO (mm)": 5.11
+  },
+  {
+    "Year": 2003,
+    "Month": 8,
+    "AVISO (mm)": 5.87
+  },
+  {
+    "Year": 2003,
+    "Month": 12,
+    "AVISO (mm)": 4.96
+  },
+  {
+    "Year": 2004,
+    "Month": 4,
+    "AVISO (mm)": 8.15
+  },
+  {
+    "Year": 2004,
+    "Month": 8,
+    "AVISO (mm)": 7.91
+  },
+  {
+    "Year": 2004,
+    "Month": 12,
+    "AVISO (mm)": 8.15
+  },
+  {
+    "Year": 2005,
+    "Month": 4,
+    "AVISO (mm)": 11.45
+  },
+  {
+    "Year": 2005,
+    "Month": 8,
+    "AVISO (mm)": 11.74
+  },
+  {
+    "Year": 2005,
+    "Month": 12,
+    "AVISO (mm)": 14.17
+  },
+  {
+    "Year": 2006,
+    "Month": 4,
+    "AVISO (mm)": 13.2
+  },
+  {
+    "Year": 2006,
+    "Month": 8,
+    "AVISO (mm)": 14.61
+  },
+  {
+    "Year": 2006,
+    "Month": 12,
+    "AVISO (mm)": 13.8
+  },
+  {
+    "Year": 2007,
+    "Month": 4,
+    "AVISO (mm)": 18.25
+  },
+  {
+    "Year": 2007,
+    "Month": 8,
+    "AVISO (mm)": 15.75
+  },
+  {
+    "Year": 2007,
+    "Month": 12,
+    "AVISO (mm)": 15.33
+  },
+  {
+    "Year": 2008,
+    "Month": 4,
+    "AVISO (mm)": 17.92
+  },
+  {
+    "Year": 2008,
+    "Month": 8,
+    "AVISO (mm)": 19.1
+  },
+  {
+    "Year": 2008,
+    "Month": 12,
+    "AVISO (mm)": 20.82
+  },
+  {
+    "Year": 2009,
+    "Month": 4,
+    "AVISO (mm)": 23.01
+  },
+  {
+    "Year": 2009,
+    "Month": 8,
+    "AVISO (mm)": 24.58
+  },
+  {
+    "Year": 2009,
+    "Month": 12,
+    "AVISO (mm)": 25.57
+  },
+  {
+    "Year": 2010,
+    "Month": 4,
+    "AVISO (mm)": 25.87
+  },
+  {
+    "Year": 2010,
+    "Month": 8,
+    "AVISO (mm)": 25.18
+  },
+  {
+    "Year": 2010,
+    "Month": 12,
+    "AVISO (mm)": 22.69
+  },
+  {
+    "Year": 2011,
+    "Month": 4,
+    "AVISO (mm)": 21.72
+  },
+  {
+    "Year": 2011,
+    "Month": 8,
+    "AVISO (mm)": 27.54
+  },
+  {
+    "Year": 2011,
+    "Month": 12,
+    "AVISO (mm)": 28.95
+  },
+  {
+    "Year": 2012,
+    "Month": 4,
+    "AVISO (mm)": 32.64
+  },
+  {
+    "Year": 2012,
+    "Month": 8,
+    "AVISO (mm)": 36.64
+  },
+  {
+    "Year": 2012,
+    "Month": 12,
+    "AVISO (mm)": 38.28
+  },
+  {
+    "Year": 2013,
+    "Month": 4,
+    "AVISO (mm)": 40.22
+  },
+  {
+    "Year": 2013,
+    "Month": 8,
+    "AVISO (mm)": 36.1
+  },
+  {
+    "Year": 2013,
+    "Month": 12,
+    "AVISO (mm)": 35.91
+  },
+  {
+    "Year": 2014,
+    "Month": 4,
+    "AVISO (mm)": 39.23
+  },
+  {
+    "Year": 2014,
+    "Month": 8,
+    "AVISO (mm)": 42.44
+  },
+  {
+    "Year": 2014,
+    "Month": 12,
+    "AVISO (mm)": 42.59
+  },
+  {
+    "Year": 2015,
+    "Month": 4,
+    "AVISO (mm)": 48.61
+  },
+  {
+    "Year": 2015,
+    "Month": 8,
+    "AVISO (mm)": 52.5
+  },
+  {
+    "Year": 2015,
+    "Month": 12,
+    "AVISO (mm)": 51.16
+  },
+  {
+    "Year": 2016,
+    "Month": 4,
+    "AVISO (mm)": 54.16
+  },
+  {
+    "Year": 2016,
+    "Month": 8,
+    "AVISO (mm)": 52.29
+  },
+  {
+    "Year": 2016,
+    "Month": 12,
+    "AVISO (mm)": 54.43
+  },
+  {
+    "Year": 2017,
+    "Month": 4,
+    "AVISO (mm)": 55.5
+  },
+  {
+    "Year": 2017,
+    "Month": 8,
+    "AVISO (mm)": 57.51
+  },
+  {
+    "Year": 2017,
+    "Month": 12,
+    "AVISO (mm)": 58.43
+  },
+  {
+    "Year": 2018,
+    "Month": 4,
+    "AVISO (mm)": 57.41
+  },
+  {
+    "Year": 2018,
+    "Month": 8,
+    "AVISO (mm)": 60.13
+  },
+  {
+    "Year": 2018,
+    "Month": 12,
+    "AVISO (mm)": 59.76
+  },
+  {
+    "Year": 2019,
+    "Month": 4,
+    "AVISO (mm)": 64.97
+  },
+  {
+    "Year": 2019,
+    "Month": 8,
+    "AVISO (mm)": 68.97
+  },
+  {
+    "Year": 2019,
+    "Month": 12,
+    "AVISO (mm)": 66.07
+  },
+  {
+    "Year": 2020,
+    "Month": 4,
+    "AVISO (mm)": 67.98
+  },
+  {
+    "Year": 2020,
+    "Month": 8,
+    "AVISO (mm)": 70.34
+  },
+  {
+    "Year": 2020,
+    "Month": 12,
+    "AVISO (mm)": 69.46
+  },
+  {
+    "Year": 2021,
+    "Month": 4,
+    "AVISO (mm)": 74.2
+  },
+  {
+    "Year": 2021,
+    "Month": 8,
+    "AVISO (mm)": 76.17
+  },
+  {
+    "Year": 2021,
+    "Month": 12,
+    "AVISO (mm)": 74.5
+  },
+  {
+    "Year": 2022,
+    "Month": 4,
+    "AVISO (mm)": 76.51
+  },
+  {
+    "Year": 2022,
+    "Month": 8,
+    "AVISO (mm)": 77.01
+  },
+  {
+    "Year": 2022,
+    "Month": 12,
+    "AVISO (mm)": 80.63
+  },
+  {
+    "Year": 2023,
+    "Month": 4,
+    "AVISO (mm)": 78.01
+  },
+  {
+    "Year": 2023,
+    "Month": 8,
+    "AVISO (mm)": 86.16
+  },
+  {
+    "Year": 2023,
+    "Month": 12,
+    "AVISO (mm)": 84.62
+  }
+]

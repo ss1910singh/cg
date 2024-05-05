@@ -1,0 +1,947 @@
+[
+  {
+    "Year": 1979,
+    "Month": 4,
+    "RSS (degC)": 0.67,
+    "UAH (degC)": 1.09,
+    "�C": 0.88
+  },
+  {
+    "Year": 1979,
+    "Month": 8,
+    "RSS (degC)": 0.3,
+    "UAH (degC)": 0.74,
+    "�C": 0.52
+  },
+  {
+    "Year": 1979,
+    "Month": 12,
+    "RSS (degC)": 0.54,
+    "UAH (degC)": 0.97,
+    "�C": 0.755
+  },
+  {
+    "Year": 1980,
+    "Month": 4,
+    "RSS (degC)": 0.17,
+    "UAH (degC)": 0.53,
+    "�C": 0.35
+  },
+  {
+    "Year": 1980,
+    "Month": 8,
+    "RSS (degC)": 0.43,
+    "UAH (degC)": 0.82,
+    "�C": 0.625
+  },
+  {
+    "Year": 1980,
+    "Month": 12,
+    "RSS (degC)": 0.58,
+    "UAH (degC)": 0.96,
+    "�C": 0.77
+  },
+  {
+    "Year": 1981,
+    "Month": 4,
+    "RSS (degC)": 0.45,
+    "UAH (degC)": 0.74,
+    "�C": 0.595
+  },
+  {
+    "Year": 1981,
+    "Month": 8,
+    "RSS (degC)": 0.22,
+    "UAH (degC)": 0.6,
+    "�C": 0.41
+  },
+  {
+    "Year": 1981,
+    "Month": 12,
+    "RSS (degC)": 0.45,
+    "UAH (degC)": 0.78,
+    "�C": 0.615
+  },
+  {
+    "Year": 1982,
+    "Month": 4,
+    "RSS (degC)": 0.63,
+    "UAH (degC)": 0.92,
+    "�C": 0.775
+  },
+  {
+    "Year": 1982,
+    "Month": 8,
+    "RSS (degC)": 1.03,
+    "UAH (degC)": 1.35,
+    "�C": 1.19
+  },
+  {
+    "Year": 1982,
+    "Month": 12,
+    "RSS (degC)": 1.34,
+    "UAH (degC)": 1.65,
+    "�C": 1.495
+  },
+  {
+    "Year": 1983,
+    "Month": 4,
+    "RSS (degC)": 0.9,
+    "UAH (degC)": 1.19,
+    "�C": 1.045
+  },
+  {
+    "Year": 1983,
+    "Month": 8,
+    "RSS (degC)": 0.61,
+    "UAH (degC)": 0.93,
+    "�C": 0.77
+  },
+  {
+    "Year": 1983,
+    "Month": 12,
+    "RSS (degC)": 0.65,
+    "UAH (degC)": 0.97,
+    "�C": 0.81
+  },
+  {
+    "Year": 1984,
+    "Month": 4,
+    "RSS (degC)": 0.04,
+    "UAH (degC)": 0.33,
+    "�C": 0.185
+  },
+  {
+    "Year": 1984,
+    "Month": 8,
+    "RSS (degC)": 0.02,
+    "UAH (degC)": 0.34,
+    "�C": 0.18
+  },
+  {
+    "Year": 1984,
+    "Month": 12,
+    "RSS (degC)": 0.18,
+    "UAH (degC)": 0.51,
+    "�C": 0.345
+  },
+  {
+    "Year": 1985,
+    "Month": 4,
+    "RSS (degC)": -0.22,
+    "UAH (degC)": 0.08,
+    "�C": -0.07
+  },
+  {
+    "Year": 1985,
+    "Month": 8,
+    "RSS (degC)": 0.05,
+    "UAH (degC)": 0.37,
+    "�C": 0.21
+  },
+  {
+    "Year": 1985,
+    "Month": 12,
+    "RSS (degC)": 0.01,
+    "UAH (degC)": 0.33,
+    "�C": 0.17
+  },
+  {
+    "Year": 1986,
+    "Month": 4,
+    "RSS (degC)": 0,
+    "UAH (degC)": 0.28,
+    "�C": 0.14
+  },
+  {
+    "Year": 1986,
+    "Month": 8,
+    "RSS (degC)": -0.13,
+    "UAH (degC)": 0.2,
+    "�C": 0.035
+  },
+  {
+    "Year": 1986,
+    "Month": 12,
+    "RSS (degC)": 0.17,
+    "UAH (degC)": 0.49,
+    "�C": 0.33
+  },
+  {
+    "Year": 1987,
+    "Month": 4,
+    "RSS (degC)": 0.02,
+    "UAH (degC)": 0.29,
+    "�C": 0.155
+  },
+  {
+    "Year": 1987,
+    "Month": 8,
+    "RSS (degC)": 0.02,
+    "UAH (degC)": 0.33,
+    "�C": 0.175
+  },
+  {
+    "Year": 1987,
+    "Month": 12,
+    "RSS (degC)": -0.22,
+    "UAH (degC)": 0.09,
+    "�C": -0.065
+  },
+  {
+    "Year": 1988,
+    "Month": 4,
+    "RSS (degC)": -0.12,
+    "UAH (degC)": 0.14,
+    "�C": 0.01
+  },
+  {
+    "Year": 1988,
+    "Month": 8,
+    "RSS (degC)": 0.03,
+    "UAH (degC)": 0.33,
+    "�C": 0.18
+  },
+  {
+    "Year": 1988,
+    "Month": 12,
+    "RSS (degC)": 0.22,
+    "UAH (degC)": 0.5,
+    "�C": 0.36
+  },
+  {
+    "Year": 1989,
+    "Month": 4,
+    "RSS (degC)": 0.15,
+    "UAH (degC)": 0.38,
+    "�C": 0.265
+  },
+  {
+    "Year": 1989,
+    "Month": 8,
+    "RSS (degC)": 0.05,
+    "UAH (degC)": 0.34,
+    "�C": 0.195
+  },
+  {
+    "Year": 1989,
+    "Month": 12,
+    "RSS (degC)": 0.14,
+    "UAH (degC)": 0.41,
+    "�C": 0.275
+  },
+  {
+    "Year": 1990,
+    "Month": 4,
+    "RSS (degC)": 0.24,
+    "UAH (degC)": 0.48,
+    "�C": 0.36
+  },
+  {
+    "Year": 1990,
+    "Month": 8,
+    "RSS (degC)": 0.08,
+    "UAH (degC)": 0.36,
+    "�C": 0.22
+  },
+  {
+    "Year": 1990,
+    "Month": 12,
+    "RSS (degC)": 0.2,
+    "UAH (degC)": 0.47,
+    "�C": 0.335
+  },
+  {
+    "Year": 1991,
+    "Month": 4,
+    "RSS (degC)": 0.09,
+    "UAH (degC)": 0.31,
+    "�C": 0.2
+  },
+  {
+    "Year": 1991,
+    "Month": 8,
+    "RSS (degC)": 1.18,
+    "UAH (degC)": 1.42,
+    "�C": 1.3
+  },
+  {
+    "Year": 1991,
+    "Month": 12,
+    "RSS (degC)": 1.23,
+    "UAH (degC)": 1.48,
+    "�C": 1.355
+  },
+  {
+    "Year": 1992,
+    "Month": 4,
+    "RSS (degC)": 1.03,
+    "UAH (degC)": 1.25,
+    "�C": 1.14
+  },
+  {
+    "Year": 1992,
+    "Month": 8,
+    "RSS (degC)": 0.94,
+    "UAH (degC)": 1.21,
+    "�C": 1.075
+  },
+  {
+    "Year": 1992,
+    "Month": 12,
+    "RSS (degC)": 0.84,
+    "UAH (degC)": 1.12,
+    "�C": 0.98
+  },
+  {
+    "Year": 1993,
+    "Month": 4,
+    "RSS (degC)": 0.18,
+    "UAH (degC)": 0.42,
+    "�C": 0.3
+  },
+  {
+    "Year": 1993,
+    "Month": 8,
+    "RSS (degC)": -0.17,
+    "UAH (degC)": 0.12,
+    "�C": -0.025
+  },
+  {
+    "Year": 1993,
+    "Month": 12,
+    "RSS (degC)": -0.29,
+    "UAH (degC)": 0.02,
+    "�C": -0.135
+  },
+  {
+    "Year": 1994,
+    "Month": 4,
+    "RSS (degC)": -0.06,
+    "UAH (degC)": 0.19,
+    "�C": 0.065
+  },
+  {
+    "Year": 1994,
+    "Month": 8,
+    "RSS (degC)": -0.14,
+    "UAH (degC)": 0.16,
+    "�C": 0.01
+  },
+  {
+    "Year": 1994,
+    "Month": 12,
+    "RSS (degC)": -0.3,
+    "UAH (degC)": 0.02,
+    "�C": -0.14
+  },
+  {
+    "Year": 1995,
+    "Month": 4,
+    "RSS (degC)": -0.27,
+    "UAH (degC)": -0.07,
+    "�C": -0.17
+  },
+  {
+    "Year": 1995,
+    "Month": 8,
+    "RSS (degC)": -0.39,
+    "UAH (degC)": -0.12,
+    "�C": -0.255
+  },
+  {
+    "Year": 1995,
+    "Month": 12,
+    "RSS (degC)": -0.34,
+    "UAH (degC)": -0.08,
+    "�C": -0.21
+  },
+  {
+    "Year": 1996,
+    "Month": 4,
+    "RSS (degC)": -0.39,
+    "UAH (degC)": -0.17,
+    "�C": -0.28
+  },
+  {
+    "Year": 1996,
+    "Month": 8,
+    "RSS (degC)": -0.49,
+    "UAH (degC)": -0.22,
+    "�C": -0.355
+  },
+  {
+    "Year": 1996,
+    "Month": 12,
+    "RSS (degC)": -0.37,
+    "UAH (degC)": -0.13,
+    "�C": -0.25
+  },
+  {
+    "Year": 1997,
+    "Month": 4,
+    "RSS (degC)": -0.09,
+    "UAH (degC)": 0.11,
+    "�C": 0.01
+  },
+  {
+    "Year": 1997,
+    "Month": 8,
+    "RSS (degC)": -0.2,
+    "UAH (degC)": 0.06,
+    "�C": -0.07
+  },
+  {
+    "Year": 1997,
+    "Month": 12,
+    "RSS (degC)": -0.48,
+    "UAH (degC)": -0.24,
+    "�C": -0.36
+  },
+  {
+    "Year": 1998,
+    "Month": 4,
+    "RSS (degC)": -0.17,
+    "UAH (degC)": 0.05,
+    "�C": -0.06
+  },
+  {
+    "Year": 1998,
+    "Month": 8,
+    "RSS (degC)": -0.2,
+    "UAH (degC)": 0.03,
+    "�C": -0.085
+  },
+  {
+    "Year": 1998,
+    "Month": 12,
+    "RSS (degC)": -0.34,
+    "UAH (degC)": -0.11,
+    "�C": -0.225
+  },
+  {
+    "Year": 1999,
+    "Month": 4,
+    "RSS (degC)": -0.47,
+    "UAH (degC)": -0.3,
+    "�C": -0.385
+  },
+  {
+    "Year": 1999,
+    "Month": 8,
+    "RSS (degC)": -0.05,
+    "UAH (degC)": 0.16,
+    "�C": 0.055
+  },
+  {
+    "Year": 1999,
+    "Month": 12,
+    "RSS (degC)": -0.23,
+    "UAH (degC)": 0,
+    "�C": -0.115
+  },
+  {
+    "Year": 2000,
+    "Month": 4,
+    "RSS (degC)": -0.18,
+    "UAH (degC)": -0.01,
+    "�C": -0.095
+  },
+  {
+    "Year": 2000,
+    "Month": 8,
+    "RSS (degC)": -0.38,
+    "UAH (degC)": -0.18,
+    "�C": -0.28
+  },
+  {
+    "Year": 2000,
+    "Month": 12,
+    "RSS (degC)": -0.56,
+    "UAH (degC)": -0.33,
+    "�C": -0.445
+  },
+  {
+    "Year": 2001,
+    "Month": 4,
+    "RSS (degC)": -0.18,
+    "UAH (degC)": -0.01,
+    "�C": -0.095
+  },
+  {
+    "Year": 2001,
+    "Month": 8,
+    "RSS (degC)": -0.09,
+    "UAH (degC)": 0.12,
+    "�C": 0.015
+  },
+  {
+    "Year": 2001,
+    "Month": 12,
+    "RSS (degC)": 0.01,
+    "UAH (degC)": 0.26,
+    "�C": 0.135
+  },
+  {
+    "Year": 2002,
+    "Month": 4,
+    "RSS (degC)": 0,
+    "UAH (degC)": 0.16,
+    "�C": 0.08
+  },
+  {
+    "Year": 2002,
+    "Month": 8,
+    "RSS (degC)": -0.06,
+    "UAH (degC)": 0.13,
+    "�C": 0.035
+  },
+  {
+    "Year": 2002,
+    "Month": 12,
+    "RSS (degC)": -0.05,
+    "UAH (degC)": 0.17,
+    "�C": 0.06
+  },
+  {
+    "Year": 2003,
+    "Month": 4,
+    "RSS (degC)": -0.06,
+    "UAH (degC)": 0.13,
+    "�C": 0.035
+  },
+  {
+    "Year": 2003,
+    "Month": 8,
+    "RSS (degC)": -0.2,
+    "UAH (degC)": 0,
+    "�C": -0.1
+  },
+  {
+    "Year": 2003,
+    "Month": 12,
+    "RSS (degC)": -0.29,
+    "UAH (degC)": -0.07,
+    "�C": -0.18
+  },
+  {
+    "Year": 2004,
+    "Month": 4,
+    "RSS (degC)": -0.1,
+    "UAH (degC)": 0.05,
+    "�C": -0.025
+  },
+  {
+    "Year": 2004,
+    "Month": 8,
+    "RSS (degC)": -0.11,
+    "UAH (degC)": 0.06,
+    "�C": -0.025
+  },
+  {
+    "Year": 2004,
+    "Month": 12,
+    "RSS (degC)": -0.21,
+    "UAH (degC)": 0.01,
+    "�C": -0.1
+  },
+  {
+    "Year": 2005,
+    "Month": 4,
+    "RSS (degC)": -0.29,
+    "UAH (degC)": -0.14,
+    "�C": -0.215
+  },
+  {
+    "Year": 2005,
+    "Month": 8,
+    "RSS (degC)": -0.38,
+    "UAH (degC)": -0.22,
+    "�C": -0.3
+  },
+  {
+    "Year": 2005,
+    "Month": 12,
+    "RSS (degC)": -0.37,
+    "UAH (degC)": -0.18,
+    "�C": -0.275
+  },
+  {
+    "Year": 2006,
+    "Month": 4,
+    "RSS (degC)": -0.27,
+    "UAH (degC)": -0.1,
+    "�C": -0.185
+  },
+  {
+    "Year": 2006,
+    "Month": 8,
+    "RSS (degC)": -0.14,
+    "UAH (degC)": 0.01,
+    "�C": -0.065
+  },
+  {
+    "Year": 2006,
+    "Month": 12,
+    "RSS (degC)": -0.37,
+    "UAH (degC)": -0.18,
+    "�C": -0.275
+  },
+  {
+    "Year": 2007,
+    "Month": 4,
+    "RSS (degC)": -0.22,
+    "UAH (degC)": -0.08,
+    "�C": -0.15
+  },
+  {
+    "Year": 2007,
+    "Month": 8,
+    "RSS (degC)": -0.42,
+    "UAH (degC)": -0.29,
+    "�C": -0.355
+  },
+  {
+    "Year": 2007,
+    "Month": 12,
+    "RSS (degC)": -0.23,
+    "UAH (degC)": -0.06,
+    "�C": -0.145
+  },
+  {
+    "Year": 2008,
+    "Month": 4,
+    "RSS (degC)": -0.39,
+    "UAH (degC)": -0.25,
+    "�C": -0.32
+  },
+  {
+    "Year": 2008,
+    "Month": 8,
+    "RSS (degC)": -0.34,
+    "UAH (degC)": -0.19,
+    "�C": -0.265
+  },
+  {
+    "Year": 2008,
+    "Month": 12,
+    "RSS (degC)": -0.44,
+    "UAH (degC)": -0.29,
+    "�C": -0.365
+  },
+  {
+    "Year": 2009,
+    "Month": 4,
+    "RSS (degC)": -0.13,
+    "UAH (degC)": 0.01,
+    "�C": -0.06
+  },
+  {
+    "Year": 2009,
+    "Month": 8,
+    "RSS (degC)": -0.2,
+    "UAH (degC)": -0.07,
+    "�C": -0.135
+  },
+  {
+    "Year": 2009,
+    "Month": 12,
+    "RSS (degC)": -0.31,
+    "UAH (degC)": -0.18,
+    "�C": -0.245
+  },
+  {
+    "Year": 2010,
+    "Month": 4,
+    "RSS (degC)": -0.12,
+    "UAH (degC)": -0.01,
+    "�C": -0.065
+  },
+  {
+    "Year": 2010,
+    "Month": 8,
+    "RSS (degC)": -0.16,
+    "UAH (degC)": -0.03,
+    "�C": -0.095
+  },
+  {
+    "Year": 2010,
+    "Month": 12,
+    "RSS (degC)": -0.01,
+    "UAH (degC)": 0.14,
+    "�C": 0.065
+  },
+  {
+    "Year": 2011,
+    "Month": 4,
+    "RSS (degC)": -0.44,
+    "UAH (degC)": -0.3,
+    "�C": -0.37
+  },
+  {
+    "Year": 2011,
+    "Month": 8,
+    "RSS (degC)": -0.36,
+    "UAH (degC)": -0.22,
+    "�C": -0.29
+  },
+  {
+    "Year": 2011,
+    "Month": 12,
+    "RSS (degC)": -0.3,
+    "UAH (degC)": -0.12,
+    "�C": -0.21
+  },
+  {
+    "Year": 2012,
+    "Month": 4,
+    "RSS (degC)": -0.44,
+    "UAH (degC)": -0.32,
+    "�C": -0.38
+  },
+  {
+    "Year": 2012,
+    "Month": 8,
+    "RSS (degC)": -0.32,
+    "UAH (degC)": -0.2,
+    "�C": -0.26
+  },
+  {
+    "Year": 2012,
+    "Month": 12,
+    "RSS (degC)": -0.37,
+    "UAH (degC)": -0.24,
+    "�C": -0.305
+  },
+  {
+    "Year": 2013,
+    "Month": 4,
+    "RSS (degC)": -0.15,
+    "UAH (degC)": -0.03,
+    "�C": -0.09
+  },
+  {
+    "Year": 2013,
+    "Month": 8,
+    "RSS (degC)": -0.11,
+    "UAH (degC)": 0.04,
+    "�C": -0.035
+  },
+  {
+    "Year": 2013,
+    "Month": 12,
+    "RSS (degC)": -0.07,
+    "UAH (degC)": 0.11,
+    "�C": 0.02
+  },
+  {
+    "Year": 2014,
+    "Month": 4,
+    "RSS (degC)": -0.08,
+    "UAH (degC)": 0.05,
+    "�C": -0.015
+  },
+  {
+    "Year": 2014,
+    "Month": 8,
+    "RSS (degC)": -0.23,
+    "UAH (degC)": -0.1,
+    "�C": -0.165
+  },
+  {
+    "Year": 2014,
+    "Month": 12,
+    "RSS (degC)": -0.27,
+    "UAH (degC)": -0.11,
+    "�C": -0.19
+  },
+  {
+    "Year": 2015,
+    "Month": 4,
+    "RSS (degC)": -0.27,
+    "UAH (degC)": -0.16,
+    "�C": -0.215
+  },
+  {
+    "Year": 2015,
+    "Month": 8,
+    "RSS (degC)": -0.08,
+    "UAH (degC)": 0.03,
+    "�C": -0.025
+  },
+  {
+    "Year": 2015,
+    "Month": 12,
+    "RSS (degC)": -0.25,
+    "UAH (degC)": -0.03,
+    "�C": -0.14
+  },
+  {
+    "Year": 2016,
+    "Month": 4,
+    "RSS (degC)": -0.45,
+    "UAH (degC)": -0.33,
+    "�C": -0.39
+  },
+  {
+    "Year": 2016,
+    "Month": 8,
+    "RSS (degC)": -0.56,
+    "UAH (degC)": -0.46,
+    "�C": -0.51
+  },
+  {
+    "Year": 2016,
+    "Month": 12,
+    "RSS (degC)": -0.5,
+    "UAH (degC)": -0.32,
+    "�C": -0.41
+  },
+  {
+    "Year": 2017,
+    "Month": 4,
+    "RSS (degC)": -0.23,
+    "UAH (degC)": -0.14,
+    "�C": -0.185
+  },
+  {
+    "Year": 2017,
+    "Month": 8,
+    "RSS (degC)": -0.4,
+    "UAH (degC)": -0.31,
+    "�C": -0.355
+  },
+  {
+    "Year": 2017,
+    "Month": 12,
+    "RSS (degC)": -0.27,
+    "UAH (degC)": -0.16,
+    "�C": -0.215
+  },
+  {
+    "Year": 2018,
+    "Month": 4,
+    "RSS (degC)": -0.34,
+    "UAH (degC)": -0.25,
+    "�C": -0.295
+  },
+  {
+    "Year": 2018,
+    "Month": 8,
+    "RSS (degC)": -0.35,
+    "UAH (degC)": -0.25,
+    "�C": -0.3
+  },
+  {
+    "Year": 2018,
+    "Month": 12,
+    "RSS (degC)": -0.44,
+    "UAH (degC)": -0.33,
+    "�C": -0.385
+  },
+  {
+    "Year": 2019,
+    "Month": 4,
+    "RSS (degC)": -0.35,
+    "UAH (degC)": -0.28,
+    "�C": -0.315
+  },
+  {
+    "Year": 2019,
+    "Month": 8,
+    "RSS (degC)": -0.25,
+    "UAH (degC)": -0.18,
+    "�C": -0.215
+  },
+  {
+    "Year": 2019,
+    "Month": 12,
+    "RSS (degC)": -0.22,
+    "UAH (degC)": -0.06,
+    "�C": -0.14
+  },
+  {
+    "Year": 2020,
+    "Month": 4,
+    "RSS (degC)": 0.11,
+    "UAH (degC)": 0.22,
+    "�C": 0.165
+  },
+  {
+    "Year": 2020,
+    "Month": 8,
+    "RSS (degC)": -0.6,
+    "UAH (degC)": -0.51,
+    "�C": -0.555
+  },
+  {
+    "Year": 2020,
+    "Month": 12,
+    "RSS (degC)": -0.32,
+    "UAH (degC)": -0.12,
+    "�C": -0.22
+  },
+  {
+    "Year": 2021,
+    "Month": 4,
+    "RSS (degC)": -0.22,
+    "UAH (degC)": -0.07,
+    "�C": -0.145
+  },
+  {
+    "Year": 2021,
+    "Month": 8,
+    "RSS (degC)": -0.34,
+    "UAH (degC)": -0.23,
+    "�C": -0.285
+  },
+  {
+    "Year": 2021,
+    "Month": 12,
+    "RSS (degC)": -0.32,
+    "UAH (degC)": -0.14,
+    "�C": -0.23
+  },
+  {
+    "Year": 2022,
+    "Month": 4,
+    "RSS (degC)": -0.38,
+    "UAH (degC)": -0.25,
+    "�C": -0.315
+  },
+  {
+    "Year": 2022,
+    "Month": 8,
+    "RSS (degC)": -0.52,
+    "UAH (degC)": -0.4,
+    "�C": -0.46
+  },
+  {
+    "Year": 2022,
+    "Month": 12,
+    "RSS (degC)": -0.41,
+    "UAH (degC)": -0.2,
+    "�C": -0.305
+  },
+  {
+    "Year": 2023,
+    "Month": 4,
+    "RSS (degC)": -0.46,
+    "UAH (degC)": -0.28,
+    "�C": -0.37
+  },
+  {
+    "Year": 2023,
+    "Month": 8,
+    "RSS (degC)": -0.32,
+    "UAH (degC)": -0.2,
+    "�C": -0.26
+  },
+  {
+    "Year": 2023,
+    "Month": 12,
+    "RSS (degC)": -0.29,
+    "UAH (degC)": -0.12,
+    "�C": -0.205
+  }
+]

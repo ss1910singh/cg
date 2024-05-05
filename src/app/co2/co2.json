@@ -1,0 +1,1082 @@
+[
+  {
+    "Year": 1979,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 338.32,
+    "WDCGG CO2 (ppm)": 338.57,
+    "Mauna Loa CO2 (ppm)": 338.82,
+    "CO2(ppm)": 338.57
+  },
+  {
+    "Year": 1979,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 334.36,
+    "WDCGG CO2 (ppm)": 335.04,
+    "Mauna Loa CO2 (ppm)": 335.72,
+    "CO2(ppm)": 335.04
+  },
+  {
+    "Year": 1979,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 337.85,
+    "WDCGG CO2 (ppm)": 337.33,
+    "Mauna Loa CO2 (ppm)": 336.81,
+    "CO2(ppm)": 337.33
+  },
+  {
+    "Year": 1980,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 339.99,
+    "WDCGG CO2 (ppm)": 340.46,
+    "Mauna Loa CO2 (ppm)": 340.93,
+    "CO2(ppm)": 340.46
+  },
+  {
+    "Year": 1980,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 337.21,
+    "WDCGG CO2 (ppm)": 337.44,
+    "Mauna Loa CO2 (ppm)": 337.67,
+    "CO2(ppm)": 337.44
+  },
+  {
+    "Year": 1980,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 339.64,
+    "WDCGG CO2 (ppm)": 338.965,
+    "Mauna Loa CO2 (ppm)": 338.29,
+    "CO2(ppm)": 338.965
+  },
+  {
+    "Year": 1981,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 341.68,
+    "WDCGG CO2 (ppm)": 342.14,
+    "Mauna Loa CO2 (ppm)": 342.6,
+    "CO2(ppm)": 342.14
+  },
+  {
+    "Year": 1981,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 338.08,
+    "WDCGG CO2 (ppm)": 338.965,
+    "Mauna Loa CO2 (ppm)": 338.48,
+    "CO2(ppm)": 338.5083333
+  },
+  {
+    "Year": 1981,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 340.75,
+    "WDCGG CO2 (ppm)": 340.33,
+    "Mauna Loa CO2 (ppm)": 339.91,
+    "CO2(ppm)": 340.33
+  },
+  {
+    "Year": 1982,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 342.52,
+    "WDCGG CO2 (ppm)": 343.24,
+    "Mauna Loa CO2 (ppm)": 343.96,
+    "CO2(ppm)": 343.24
+  },
+  {
+    "Year": 1982,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 338.11,
+    "WDCGG CO2 (ppm)": 339.175,
+    "Mauna Loa CO2 (ppm)": 340.24,
+    "CO2(ppm)": 339.175
+  },
+  {
+    "Year": 1982,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 341.77,
+    "WDCGG CO2 (ppm)": 341.275,
+    "Mauna Loa CO2 (ppm)": 340.78,
+    "CO2(ppm)": 341.275
+  },
+  {
+    "Year": 1983,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 343.51,
+    "WDCGG CO2 (ppm)": 344.45,
+    "Mauna Loa CO2 (ppm)": 345.39,
+    "CO2(ppm)": 344.45
+  },
+  {
+    "Year": 1983,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 340.62,
+    "WDCGG CO2 (ppm)": 341.565,
+    "Mauna Loa CO2 (ppm)": 342.51,
+    "CO2(ppm)": 341.565
+  },
+  {
+    "Year": 1983,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 343.49,
+    "WDCGG CO2 (ppm)": 343.345,
+    "Mauna Loa CO2 (ppm)": 343.2,
+    "CO2(ppm)": 343.345
+  },
+  {
+    "Year": 1984,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 345.19,
+    "WDCGG CO2 (ppm)": 345.97,
+    "Mauna Loa CO2 (ppm)": 347.38,
+    "CO2(ppm)": 346.18
+  },
+  {
+    "Year": 1984,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 342.21,
+    "WDCGG CO2 (ppm)": 341.63,
+    "Mauna Loa CO2 (ppm)": 343.74,
+    "CO2(ppm)": 342.5266667
+  },
+  {
+    "Year": 1984,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 345,
+    "WDCGG CO2 (ppm)": 346.13,
+    "Mauna Loa CO2 (ppm)": 345,
+    "CO2(ppm)": 345.3766667
+  },
+  {
+    "Year": 1985,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 346.94,
+    "WDCGG CO2 (ppm)": 347.32,
+    "Mauna Loa CO2 (ppm)": 348.66,
+    "CO2(ppm)": 347.64
+  },
+  {
+    "Year": 1985,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 343.41,
+    "WDCGG CO2 (ppm)": 343,
+    "Mauna Loa CO2 (ppm)": 345.26,
+    "CO2(ppm)": 343.89
+  },
+  {
+    "Year": 1985,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 346.55,
+    "WDCGG CO2 (ppm)": 347.5,
+    "Mauna Loa CO2 (ppm)": 346.12,
+    "CO2(ppm)": 346.7233333
+  },
+  {
+    "Year": 1986,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 348.22,
+    "WDCGG CO2 (ppm)": 348.73,
+    "Mauna Loa CO2 (ppm)": 349.86,
+    "CO2(ppm)": 348.9366667
+  },
+  {
+    "Year": 1986,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 344.92,
+    "WDCGG CO2 (ppm)": 344.47,
+    "Mauna Loa CO2 (ppm)": 346.17,
+    "CO2(ppm)": 345.1866667
+  },
+  {
+    "Year": 1986,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 347.76,
+    "WDCGG CO2 (ppm)": 348.9,
+    "Mauna Loa CO2 (ppm)": 347.48,
+    "CO2(ppm)": 348.0466667
+  },
+  {
+    "Year": 1987,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 349.98,
+    "WDCGG CO2 (ppm)": 350.34,
+    "Mauna Loa CO2 (ppm)": 351.4,
+    "CO2(ppm)": 350.5733333
+  },
+  {
+    "Year": 1987,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 346.61,
+    "WDCGG CO2 (ppm)": 346.47,
+    "Mauna Loa CO2 (ppm)": 348.2,
+    "CO2(ppm)": 347.0933333
+  },
+  {
+    "Year": 1987,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 350.21,
+    "WDCGG CO2 (ppm)": 351.21,
+    "Mauna Loa CO2 (ppm)": 349.28,
+    "CO2(ppm)": 350.2333333
+  },
+  {
+    "Year": 1988,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 352.3,
+    "WDCGG CO2 (ppm)": 352.71,
+    "Mauna Loa CO2 (ppm)": 353.67,
+    "CO2(ppm)": 352.8933333
+  },
+  {
+    "Year": 1988,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 349.1,
+    "WDCGG CO2 (ppm)": 348.76,
+    "Mauna Loa CO2 (ppm)": 350.49,
+    "CO2(ppm)": 349.45
+  },
+  {
+    "Year": 1988,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 352.46,
+    "WDCGG CO2 (ppm)": 353.29,
+    "Mauna Loa CO2 (ppm)": 351.62,
+    "CO2(ppm)": 352.4566667
+  },
+  {
+    "Year": 1989,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 354.38,
+    "WDCGG CO2 (ppm)": 354.54,
+    "Mauna Loa CO2 (ppm)": 355.72,
+    "CO2(ppm)": 354.88
+  },
+  {
+    "Year": 1989,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 350.21,
+    "WDCGG CO2 (ppm)": 350.29,
+    "Mauna Loa CO2 (ppm)": 351.84,
+    "CO2(ppm)": 350.78
+  },
+  {
+    "Year": 1989,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 353.91,
+    "WDCGG CO2 (ppm)": 354.64,
+    "Mauna Loa CO2 (ppm)": 352.91,
+    "CO2(ppm)": 353.82
+  },
+  {
+    "Year": 1990,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 355.5,
+    "WDCGG CO2 (ppm)": 355.71,
+    "Mauna Loa CO2 (ppm)": 356.38,
+    "CO2(ppm)": 355.8633333
+  },
+  {
+    "Year": 1990,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 351.58,
+    "WDCGG CO2 (ppm)": 351.4,
+    "Mauna Loa CO2 (ppm)": 353.06,
+    "CO2(ppm)": 352.0133333
+  },
+  {
+    "Year": 1990,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 355.19,
+    "WDCGG CO2 (ppm)": 355.92,
+    "Mauna Loa CO2 (ppm)": 354.41,
+    "CO2(ppm)": 355.1733333
+  },
+  {
+    "Year": 1991,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 357.19,
+    "WDCGG CO2 (ppm)": 357.13,
+    "Mauna Loa CO2 (ppm)": 358.77,
+    "CO2(ppm)": 357.6966667
+  },
+  {
+    "Year": 1991,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 353.06,
+    "WDCGG CO2 (ppm)": 352.65,
+    "Mauna Loa CO2 (ppm)": 353.97,
+    "CO2(ppm)": 353.2266667
+  },
+  {
+    "Year": 1991,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 355.95,
+    "WDCGG CO2 (ppm)": 356.86,
+    "Mauna Loa CO2 (ppm)": 355.21,
+    "CO2(ppm)": 356.0066667
+  },
+  {
+    "Year": 1992,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 357.75,
+    "WDCGG CO2 (ppm)": 357.94,
+    "Mauna Loa CO2 (ppm)": 359.22,
+    "CO2(ppm)": 358.3033333
+  },
+  {
+    "Year": 1992,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 353.67,
+    "WDCGG CO2 (ppm)": 353.44,
+    "Mauna Loa CO2 (ppm)": 354.99,
+    "CO2(ppm)": 354.0333333
+  },
+  {
+    "Year": 1992,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 356.74,
+    "WDCGG CO2 (ppm)": 357.49,
+    "Mauna Loa CO2 (ppm)": 355.68,
+    "CO2(ppm)": 356.6366667
+  },
+  {
+    "Year": 1993,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 358.43,
+    "WDCGG CO2 (ppm)": 358.68,
+    "Mauna Loa CO2 (ppm)": 359.39,
+    "CO2(ppm)": 358.8333333
+  },
+  {
+    "Year": 1993,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 354.44,
+    "WDCGG CO2 (ppm)": 354.3,
+    "Mauna Loa CO2 (ppm)": 355.76,
+    "CO2(ppm)": 354.8333333
+  },
+  {
+    "Year": 1993,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 357.85,
+    "WDCGG CO2 (ppm)": 358.66,
+    "Mauna Loa CO2 (ppm)": 357.03,
+    "CO2(ppm)": 357.8466667
+  },
+  {
+    "Year": 1994,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 359.71,
+    "WDCGG CO2 (ppm)": 360.08,
+    "Mauna Loa CO2 (ppm)": 361.36,
+    "CO2(ppm)": 360.3833333
+  },
+  {
+    "Year": 1994,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 356.06,
+    "WDCGG CO2 (ppm)": 355.88,
+    "Mauna Loa CO2 (ppm)": 357.59,
+    "CO2(ppm)": 356.51
+  },
+  {
+    "Year": 1994,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 359.55,
+    "WDCGG CO2 (ppm)": 360.43,
+    "Mauna Loa CO2 (ppm)": 359.1,
+    "CO2(ppm)": 359.6933333
+  },
+  {
+    "Year": 1995,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 361.55,
+    "WDCGG CO2 (ppm)": 361.87,
+    "Mauna Loa CO2 (ppm)": 363.44,
+    "CO2(ppm)": 362.2866667
+  },
+  {
+    "Year": 1995,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 357.73,
+    "WDCGG CO2 (ppm)": 357.68,
+    "Mauna Loa CO2 (ppm)": 359.33,
+    "CO2(ppm)": 358.2466667
+  },
+  {
+    "Year": 1995,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 361.65,
+    "WDCGG CO2 (ppm)": 362.5,
+    "Mauna Loa CO2 (ppm)": 360.82,
+    "CO2(ppm)": 361.6566667
+  },
+  {
+    "Year": 1996,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 363.14,
+    "WDCGG CO2 (ppm)": 363.72,
+    "Mauna Loa CO2 (ppm)": 364.69,
+    "CO2(ppm)": 363.85
+  },
+  {
+    "Year": 1996,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 360.07,
+    "WDCGG CO2 (ppm)": 359.54,
+    "Mauna Loa CO2 (ppm)": 361.55,
+    "CO2(ppm)": 360.3866667
+  },
+  {
+    "Year": 1996,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 362.63,
+    "WDCGG CO2 (ppm)": 363.62,
+    "Mauna Loa CO2 (ppm)": 362.39,
+    "CO2(ppm)": 362.88
+  },
+  {
+    "Year": 1997,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 364.5,
+    "WDCGG CO2 (ppm)": 364.87,
+    "Mauna Loa CO2 (ppm)": 366.48,
+    "CO2(ppm)": 365.2833333
+  },
+  {
+    "Year": 1997,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 360.41,
+    "WDCGG CO2 (ppm)": 360.53,
+    "Mauna Loa CO2 (ppm)": 362.4,
+    "CO2(ppm)": 361.1133333
+  },
+  {
+    "Year": 1997,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 364.68,
+    "WDCGG CO2 (ppm)": 365.4,
+    "Mauna Loa CO2 (ppm)": 364.51,
+    "CO2(ppm)": 364.8633333
+  },
+  {
+    "Year": 1998,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 366.58,
+    "WDCGG CO2 (ppm)": 367.16,
+    "Mauna Loa CO2 (ppm)": 368.79,
+    "CO2(ppm)": 367.51
+  },
+  {
+    "Year": 1998,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 363.79,
+    "WDCGG CO2 (ppm)": 363.65,
+    "Mauna Loa CO2 (ppm)": 366.1,
+    "CO2(ppm)": 364.5133333
+  },
+  {
+    "Year": 1998,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 367.47,
+    "WDCGG CO2 (ppm)": 368.35,
+    "Mauna Loa CO2 (ppm)": 367.3,
+    "CO2(ppm)": 367.7066667
+  },
+  {
+    "Year": 1999,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 369.29,
+    "WDCGG CO2 (ppm)": 369.64,
+    "Mauna Loa CO2 (ppm)": 371.15,
+    "CO2(ppm)": 370.0266667
+  },
+  {
+    "Year": 1999,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 365.33,
+    "WDCGG CO2 (ppm)": 365.28,
+    "Mauna Loa CO2 (ppm)": 367.06,
+    "CO2(ppm)": 365.89
+  },
+  {
+    "Year": 1999,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 368.88,
+    "WDCGG CO2 (ppm)": 369.8,
+    "Mauna Loa CO2 (ppm)": 368.26,
+    "CO2(ppm)": 368.98
+  },
+  {
+    "Year": 2000,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 370.35,
+    "WDCGG CO2 (ppm)": 370.98,
+    "Mauna Loa CO2 (ppm)": 371.98,
+    "CO2(ppm)": 371.1033333
+  },
+  {
+    "Year": 2000,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 366.76,
+    "WDCGG CO2 (ppm)": 366.8,
+    "Mauna Loa CO2 (ppm)": 368.27,
+    "CO2(ppm)": 367.2766667
+  },
+  {
+    "Year": 2000,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 370.1,
+    "WDCGG CO2 (ppm)": 371.43,
+    "Mauna Loa CO2 (ppm)": 369.83,
+    "CO2(ppm)": 370.4533333
+  },
+  {
+    "Year": 2001,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 371.9,
+    "WDCGG CO2 (ppm)": 372.51,
+    "Mauna Loa CO2 (ppm)": 373.55,
+    "CO2(ppm)": 372.6533333
+  },
+  {
+    "Year": 2001,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 368.32,
+    "WDCGG CO2 (ppm)": 368.3,
+    "Mauna Loa CO2 (ppm)": 369.78,
+    "CO2(ppm)": 368.8
+  },
+  {
+    "Year": 2001,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 371.97,
+    "WDCGG CO2 (ppm)": 372.93,
+    "Mauna Loa CO2 (ppm)": 371.42,
+    "CO2(ppm)": 372.1066667
+  },
+  {
+    "Year": 2002,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 373.73,
+    "WDCGG CO2 (ppm)": 374.31,
+    "Mauna Loa CO2 (ppm)": 375.19,
+    "CO2(ppm)": 374.41
+  },
+  {
+    "Year": 2002,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 370.35,
+    "WDCGG CO2 (ppm)": 370.43,
+    "Mauna Loa CO2 (ppm)": 372.03,
+    "CO2(ppm)": 370.9366667
+  },
+  {
+    "Year": 2002,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 374.26,
+    "WDCGG CO2 (ppm)": 375.12,
+    "Mauna Loa CO2 (ppm)": 373.98,
+    "CO2(ppm)": 374.4533333
+  },
+  {
+    "Year": 2003,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 376.39,
+    "WDCGG CO2 (ppm)": 376.82,
+    "Mauna Loa CO2 (ppm)": 377.92,
+    "CO2(ppm)": 377.0433333
+  },
+  {
+    "Year": 2003,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 372.93,
+    "WDCGG CO2 (ppm)": 372.98,
+    "Mauna Loa CO2 (ppm)": 374.57,
+    "CO2(ppm)": 373.4933333
+  },
+  {
+    "Year": 2003,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 376.52,
+    "WDCGG CO2 (ppm)": 377.32,
+    "Mauna Loa CO2 (ppm)": 376.17,
+    "CO2(ppm)": 376.67
+  },
+  {
+    "Year": 2004,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 378.48,
+    "WDCGG CO2 (ppm)": 378.66,
+    "Mauna Loa CO2 (ppm)": 380.54,
+    "CO2(ppm)": 379.2266667
+  },
+  {
+    "Year": 2004,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 374.49,
+    "WDCGG CO2 (ppm)": 374.4,
+    "Mauna Loa CO2 (ppm)": 376.17,
+    "CO2(ppm)": 375.02
+  },
+  {
+    "Year": 2004,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 378.17,
+    "WDCGG CO2 (ppm)": 379.03,
+    "Mauna Loa CO2 (ppm)": 377.68,
+    "CO2(ppm)": 378.2933333
+  },
+  {
+    "Year": 2005,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 380.32,
+    "WDCGG CO2 (ppm)": 380.63,
+    "Mauna Loa CO2 (ppm)": 382.48,
+    "CO2(ppm)": 381.1433333
+  },
+  {
+    "Year": 2005,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 376.73,
+    "WDCGG CO2 (ppm)": 376.65,
+    "Mauna Loa CO2 (ppm)": 378.93,
+    "CO2(ppm)": 377.4366667
+  },
+  {
+    "Year": 2005,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 380.53,
+    "WDCGG CO2 (ppm)": 381.55,
+    "Mauna Loa CO2 (ppm)": 380.31,
+    "CO2(ppm)": 380.7966667
+  },
+  {
+    "Year": 2006,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 382.67,
+    "WDCGG CO2 (ppm)": 382.9,
+    "Mauna Loa CO2 (ppm)": 384.8,
+    "CO2(ppm)": 383.4566667
+  },
+  {
+    "Year": 2006,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 378.49,
+    "WDCGG CO2 (ppm)": 378.64,
+    "Mauna Loa CO2 (ppm)": 380.6,
+    "CO2(ppm)": 379.2433333
+  },
+  {
+    "Year": 2006,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 382.39,
+    "WDCGG CO2 (ppm)": 383.12,
+    "Mauna Loa CO2 (ppm)": 382.02,
+    "CO2(ppm)": 382.51
+  },
+  {
+    "Year": 2007,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 384.28,
+    "WDCGG CO2 (ppm)": 384.61,
+    "Mauna Loa CO2 (ppm)": 386.73,
+    "CO2(ppm)": 385.2066667
+  },
+  {
+    "Year": 2007,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 380.29,
+    "WDCGG CO2 (ppm)": 380.59,
+    "Mauna Loa CO2 (ppm)": 382.24,
+    "CO2(ppm)": 381.04
+  },
+  {
+    "Year": 2007,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 384.46,
+    "WDCGG CO2 (ppm)": 385.39,
+    "Mauna Loa CO2 (ppm)": 384.19,
+    "CO2(ppm)": 384.68
+  },
+  {
+    "Year": 2008,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 386.53,
+    "WDCGG CO2 (ppm)": 386.94,
+    "Mauna Loa CO2 (ppm)": 387.34,
+    "CO2(ppm)": 386.9366667
+  },
+  {
+    "Year": 2008,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 382.77,
+    "WDCGG CO2 (ppm)": 382.53,
+    "Mauna Loa CO2 (ppm)": 384.32,
+    "CO2(ppm)": 383.2066667
+  },
+  {
+    "Year": 2008,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 386.27,
+    "WDCGG CO2 (ppm)": 387.23,
+    "Mauna Loa CO2 (ppm)": 385.79,
+    "CO2(ppm)": 386.43
+  },
+  {
+    "Year": 2009,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 387.98,
+    "WDCGG CO2 (ppm)": 388.43,
+    "Mauna Loa CO2 (ppm)": 389.76,
+    "CO2(ppm)": 388.7233333
+  },
+  {
+    "Year": 2009,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 383.62,
+    "WDCGG CO2 (ppm)": 383.96,
+    "Mauna Loa CO2 (ppm)": 386.29,
+    "CO2(ppm)": 384.6233333
+  },
+  {
+    "Year": 2009,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 387.84,
+    "WDCGG CO2 (ppm)": 388.79,
+    "Mauna Loa CO2 (ppm)": 387.63,
+    "CO2(ppm)": 388.0866667
+  },
+  {
+    "Year": 2010,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 389.98,
+    "WDCGG CO2 (ppm)": 390.34,
+    "Mauna Loa CO2 (ppm)": 392.67,
+    "CO2(ppm)": 390.9966667
+  },
+  {
+    "Year": 2010,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 386.23,
+    "WDCGG CO2 (ppm)": 386.46,
+    "Mauna Loa CO2 (ppm)": 388.54,
+    "CO2(ppm)": 387.0766667
+  },
+  {
+    "Year": 2010,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 390.36,
+    "WDCGG CO2 (ppm)": 391.34,
+    "Mauna Loa CO2 (ppm)": 389.99,
+    "CO2(ppm)": 390.5633333
+  },
+  {
+    "Year": 2011,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 392.05,
+    "WDCGG CO2 (ppm)": 392.4,
+    "Mauna Loa CO2 (ppm)": 393.44,
+    "CO2(ppm)": 392.63
+  },
+  {
+    "Year": 2011,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 387.86,
+    "WDCGG CO2 (ppm)": 388.22,
+    "Mauna Loa CO2 (ppm)": 390.33,
+    "CO2(ppm)": 388.8033333
+  },
+  {
+    "Year": 2011,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 392.04,
+    "WDCGG CO2 (ppm)": 393,
+    "Mauna Loa CO2 (ppm)": 392.06,
+    "CO2(ppm)": 392.3666667
+  },
+  {
+    "Year": 2012,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 393.99,
+    "WDCGG CO2 (ppm)": 394.49,
+    "Mauna Loa CO2 (ppm)": 396.38,
+    "CO2(ppm)": 394.9533333
+  },
+  {
+    "Year": 2012,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 389.89,
+    "WDCGG CO2 (ppm)": 390.49,
+    "Mauna Loa CO2 (ppm)": 392.59,
+    "CO2(ppm)": 390.99
+  },
+  {
+    "Year": 2012,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 394.39,
+    "WDCGG CO2 (ppm)": 395.73,
+    "Mauna Loa CO2 (ppm)": 394.57,
+    "CO2(ppm)": 394.8966667
+  },
+  {
+    "Year": 2013,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 396.74,
+    "WDCGG CO2 (ppm)": 397.37,
+    "Mauna Loa CO2 (ppm)": 398.64,
+    "CO2(ppm)": 397.5833333
+  },
+  {
+    "Year": 2013,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 393.23,
+    "WDCGG CO2 (ppm)": 393.37,
+    "Mauna Loa CO2 (ppm)": 395.39,
+    "CO2(ppm)": 393.9966667
+  },
+  {
+    "Year": 2013,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 396.88,
+    "WDCGG CO2 (ppm)": 397.97,
+    "Mauna Loa CO2 (ppm)": 397.03,
+    "CO2(ppm)": 397.2933333
+  },
+  {
+    "Year": 2014,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 398.63,
+    "WDCGG CO2 (ppm)": 399.28,
+    "Mauna Loa CO2 (ppm)": 401.51,
+    "CO2(ppm)": 399.8066667
+  },
+  {
+    "Year": 2014,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 395.02,
+    "WDCGG CO2 (ppm)": 395.1,
+    "Mauna Loa CO2 (ppm)": 397.18,
+    "CO2(ppm)": 395.7666667
+  },
+  {
+    "Year": 2014,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 398.84,
+    "WDCGG CO2 (ppm)": 400.01,
+    "Mauna Loa CO2 (ppm)": 399.08,
+    "CO2(ppm)": 399.31
+  },
+  {
+    "Year": 2015,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 400.96,
+    "WDCGG CO2 (ppm)": 401.47,
+    "Mauna Loa CO2 (ppm)": 403.34,
+    "CO2(ppm)": 401.9233333
+  },
+  {
+    "Year": 2015,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 397.06,
+    "WDCGG CO2 (ppm)": 397.53,
+    "Mauna Loa CO2 (ppm)": 399.11,
+    "CO2(ppm)": 397.9
+  },
+  {
+    "Year": 2015,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 401.66,
+    "WDCGG CO2 (ppm)": 402.81,
+    "Mauna Loa CO2 (ppm)": 402.06,
+    "CO2(ppm)": 402.1766667
+  },
+  {
+    "Year": 2016,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 404.36,
+    "WDCGG CO2 (ppm)": 404.74,
+    "Mauna Loa CO2 (ppm)": 407.6,
+    "CO2(ppm)": 405.5666667
+  },
+  {
+    "Year": 2016,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 400.78,
+    "WDCGG CO2 (ppm)": 400.87,
+    "Mauna Loa CO2 (ppm)": 402.45,
+    "CO2(ppm)": 401.3666667
+  },
+  {
+    "Year": 2016,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 404.67,
+    "WDCGG CO2 (ppm)": 405.74,
+    "Mauna Loa CO2 (ppm)": 404.64,
+    "CO2(ppm)": 405.0166667
+  },
+  {
+    "Year": 2017,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 406.61,
+    "WDCGG CO2 (ppm)": 407.19,
+    "Mauna Loa CO2 (ppm)": 409.22,
+    "CO2(ppm)": 407.6733333
+  },
+  {
+    "Year": 2017,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 402.57,
+    "WDCGG CO2 (ppm)": 402.92,
+    "Mauna Loa CO2 (ppm)": 405.32,
+    "CO2(ppm)": 403.6033333
+  },
+  {
+    "Year": 2017,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 406.75,
+    "WDCGG CO2 (ppm)": 407.85,
+    "Mauna Loa CO2 (ppm)": 407,
+    "CO2(ppm)": 407.2
+  },
+  {
+    "Year": 2018,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 409.07,
+    "WDCGG CO2 (ppm)": 409.48,
+    "Mauna Loa CO2 (ppm)": 410.45,
+    "CO2(ppm)": 409.6666667
+  },
+  {
+    "Year": 2018,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 405.11,
+    "WDCGG CO2 (ppm)": 405.29,
+    "Mauna Loa CO2 (ppm)": 407.16,
+    "CO2(ppm)": 405.8533333
+  },
+  {
+    "Year": 2018,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 409.19,
+    "WDCGG CO2 (ppm)": 410.27,
+    "Mauna Loa CO2 (ppm)": 409.27,
+    "CO2(ppm)": 409.5766667
+  },
+  {
+    "Year": 2019,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 411.33,
+    "WDCGG CO2 (ppm)": 411.94,
+    "Mauna Loa CO2 (ppm)": 413.54,
+    "CO2(ppm)": 412.27
+  },
+  {
+    "Year": 2019,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 407.64,
+    "WDCGG CO2 (ppm)": 407.97,
+    "Mauna Loa CO2 (ppm)": 410.17,
+    "CO2(ppm)": 408.5933333
+  },
+  {
+    "Year": 2019,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 411.76,
+    "WDCGG CO2 (ppm)": 412.86,
+    "Mauna Loa CO2 (ppm)": 411.97,
+    "CO2(ppm)": 412.1966667
+  },
+  {
+    "Year": 2020,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 413.86,
+    "WDCGG CO2 (ppm)": 414.47,
+    "Mauna Loa CO2 (ppm)": 416.42,
+    "CO2(ppm)": 414.9166667
+  },
+  {
+    "Year": 2020,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 409.73,
+    "WDCGG CO2 (ppm)": 410.41,
+    "Mauna Loa CO2 (ppm)": 412.75,
+    "CO2(ppm)": 410.9633333
+  },
+  {
+    "Year": 2020,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 414.14,
+    "WDCGG CO2 (ppm)": 415.48,
+    "Mauna Loa CO2 (ppm)": 414.23,
+    "CO2(ppm)": 414.6166667
+  },
+  {
+    "Year": 2021,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 415.81,
+    "WDCGG CO2 (ppm)": 416.93,
+    "Mauna Loa CO2 (ppm)": 419.01,
+    "CO2(ppm)": 417.25
+  },
+  {
+    "Year": 2021,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 412.15,
+    "WDCGG CO2 (ppm)": 412.77,
+    "Mauna Loa CO2 (ppm)": 414.42,
+    "CO2(ppm)": 413.1133333
+  },
+  {
+    "Year": 2021,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 416.6,
+    "WDCGG CO2 (ppm)": 417.91,
+    "Mauna Loa CO2 (ppm)": 416.67,
+    "CO2(ppm)": 417.06
+  },
+  {
+    "Year": 2022,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 418.58,
+    "WDCGG CO2 (ppm)": 419.22,
+    "Mauna Loa CO2 (ppm)": 420.19,
+    "CO2(ppm)": 419.33
+  },
+  {
+    "Year": 2022,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 414.4,
+    "WDCGG CO2 (ppm)": 415.13,
+    "Mauna Loa CO2 (ppm)": 417.15,
+    "CO2(ppm)": 415.56
+  },
+  {
+    "Year": 2022,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 418.8,
+    "WDCGG CO2 (ppm)": 419.89,
+    "Mauna Loa CO2 (ppm)": 418.99,
+    "CO2(ppm)": 419.2266667
+  },
+  {
+    "Year": 2023,
+    "Month": 4,
+    "NOAA CO2 (ppm)": 420.55,
+    "WDCGG CO2 (ppm)": 423.36,
+    "Mauna Loa CO2 (ppm)": 423.36,
+    "CO2(ppm)": 422.4233333
+  },
+  {
+    "Year": 2023,
+    "Month": 8,
+    "NOAA CO2 (ppm)": 416.59,
+    "WDCGG CO2 (ppm)": 416.59,
+    "Mauna Loa CO2 (ppm)": 419.68,
+    "CO2(ppm)": 417.62
+  },
+  {
+    "Year": 2023,
+    "Month": 12,
+    "NOAA CO2 (ppm)": 421.86,
+    "WDCGG CO2 (ppm)": 421.86,
+    "Mauna Loa CO2 (ppm)": 421.86,
+    "CO2(ppm)": 421.86
+  }
+]

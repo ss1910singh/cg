@@ -1,0 +1,835 @@
+[
+  {
+    "Year": 1984,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1643.96,
+    "WDCGG CH4 (ppb)": 1651.2,
+    "CH4 (ppb)": 1647.58
+  },
+  {
+    "Year": 1984,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1641.68,
+    "WDCGG CH4 (ppb)": 1651.6,
+    "CH4 (ppb)": 1646.64
+  },
+  {
+    "Year": 1984,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1656.22,
+    "WDCGG CH4 (ppb)": 1669.5,
+    "CH4 (ppb)": 1662.86
+  },
+  {
+    "Year": 1985,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1658.19,
+    "WDCGG CH4 (ppb)": 1664.3,
+    "CH4 (ppb)": 1661.245
+  },
+  {
+    "Year": 1985,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1652.25,
+    "WDCGG CH4 (ppb)": 1663.4,
+    "CH4 (ppb)": 1657.825
+  },
+  {
+    "Year": 1985,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1666.07,
+    "WDCGG CH4 (ppb)": 1680,
+    "CH4 (ppb)": 1673.035
+  },
+  {
+    "Year": 1986,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1670.8,
+    "WDCGG CH4 (ppb)": 1676.4,
+    "CH4 (ppb)": 1673.6
+  },
+  {
+    "Year": 1986,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1664.38,
+    "WDCGG CH4 (ppb)": 1676.4,
+    "CH4 (ppb)": 1670.39
+  },
+  {
+    "Year": 1986,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1679.14,
+    "WDCGG CH4 (ppb)": 1694.1,
+    "CH4 (ppb)": 1686.62
+  },
+  {
+    "Year": 1987,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1681.37,
+    "WDCGG CH4 (ppb)": 1689.2,
+    "CH4 (ppb)": 1685.285
+  },
+  {
+    "Year": 1987,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1677.15,
+    "WDCGG CH4 (ppb)": 1688.2,
+    "CH4 (ppb)": 1682.675
+  },
+  {
+    "Year": 1987,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1690.52,
+    "WDCGG CH4 (ppb)": 1704.4,
+    "CH4 (ppb)": 1697.46
+  },
+  {
+    "Year": 1988,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1690.1,
+    "WDCGG CH4 (ppb)": 1699.1,
+    "CH4 (ppb)": 1694.6
+  },
+  {
+    "Year": 1988,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1689.13,
+    "WDCGG CH4 (ppb)": 1700,
+    "CH4 (ppb)": 1694.565
+  },
+  {
+    "Year": 1988,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1702.03,
+    "WDCGG CH4 (ppb)": 1718.4,
+    "CH4 (ppb)": 1710.215
+  },
+  {
+    "Year": 1989,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1703.59,
+    "WDCGG CH4 (ppb)": 1711.7,
+    "CH4 (ppb)": 1707.645
+  },
+  {
+    "Year": 1989,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1701.98,
+    "WDCGG CH4 (ppb)": 1711,
+    "CH4 (ppb)": 1706.49
+  },
+  {
+    "Year": 1989,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1713.25,
+    "WDCGG CH4 (ppb)": 1726.7,
+    "CH4 (ppb)": 1719.975
+  },
+  {
+    "Year": 1990,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1712.51,
+    "WDCGG CH4 (ppb)": 1721.4,
+    "CH4 (ppb)": 1716.955
+  },
+  {
+    "Year": 1990,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1710.11,
+    "WDCGG CH4 (ppb)": 1720.2,
+    "CH4 (ppb)": 1715.155
+  },
+  {
+    "Year": 1990,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1723.34,
+    "WDCGG CH4 (ppb)": 1737.4,
+    "CH4 (ppb)": 1730.37
+  },
+  {
+    "Year": 1991,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1722.5,
+    "WDCGG CH4 (ppb)": 1730.7,
+    "CH4 (ppb)": 1726.6
+  },
+  {
+    "Year": 1991,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1719.23,
+    "WDCGG CH4 (ppb)": 1731.5,
+    "CH4 (ppb)": 1725.365
+  },
+  {
+    "Year": 1991,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1739.64,
+    "WDCGG CH4 (ppb)": 1751,
+    "CH4 (ppb)": 1745.32
+  },
+  {
+    "Year": 1992,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1736.63,
+    "WDCGG CH4 (ppb)": 1742.6,
+    "CH4 (ppb)": 1739.615
+  },
+  {
+    "Year": 1992,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1730.31,
+    "WDCGG CH4 (ppb)": 1739.4,
+    "CH4 (ppb)": 1734.855
+  },
+  {
+    "Year": 1992,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1738.58,
+    "WDCGG CH4 (ppb)": 1751.6,
+    "CH4 (ppb)": 1745.09
+  },
+  {
+    "Year": 1993,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1736.66,
+    "WDCGG CH4 (ppb)": 1745.1,
+    "CH4 (ppb)": 1740.88
+  },
+  {
+    "Year": 1993,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1731.22,
+    "WDCGG CH4 (ppb)": 1743,
+    "CH4 (ppb)": 1737.11
+  },
+  {
+    "Year": 1993,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1744.32,
+    "WDCGG CH4 (ppb)": 1757.9,
+    "CH4 (ppb)": 1751.11
+  },
+  {
+    "Year": 1994,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1741.93,
+    "WDCGG CH4 (ppb)": 1749.6,
+    "CH4 (ppb)": 1745.765
+  },
+  {
+    "Year": 1994,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1734.1,
+    "WDCGG CH4 (ppb)": 1746.5,
+    "CH4 (ppb)": 1740.3
+  },
+  {
+    "Year": 1994,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1751.62,
+    "WDCGG CH4 (ppb)": 1764,
+    "CH4 (ppb)": 1757.81
+  },
+  {
+    "Year": 1995,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1749.42,
+    "WDCGG CH4 (ppb)": 1757.1,
+    "CH4 (ppb)": 1753.26
+  },
+  {
+    "Year": 1995,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1743.59,
+    "WDCGG CH4 (ppb)": 1754.7,
+    "CH4 (ppb)": 1749.145
+  },
+  {
+    "Year": 1995,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1753.88,
+    "WDCGG CH4 (ppb)": 1770.1,
+    "CH4 (ppb)": 1761.99
+  },
+  {
+    "Year": 1996,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1749.58,
+    "WDCGG CH4 (ppb)": 1761.3,
+    "CH4 (ppb)": 1755.44
+  },
+  {
+    "Year": 1996,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1744.25,
+    "WDCGG CH4 (ppb)": 1756.4,
+    "CH4 (ppb)": 1750.325
+  },
+  {
+    "Year": 1996,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1756.93,
+    "WDCGG CH4 (ppb)": 1771.7,
+    "CH4 (ppb)": 1764.315
+  },
+  {
+    "Year": 1997,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1755.52,
+    "WDCGG CH4 (ppb)": 1762.3,
+    "CH4 (ppb)": 1758.91
+  },
+  {
+    "Year": 1997,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1747.88,
+    "WDCGG CH4 (ppb)": 1761.3,
+    "CH4 (ppb)": 1754.59
+  },
+  {
+    "Year": 1997,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1761.93,
+    "WDCGG CH4 (ppb)": 1776.7,
+    "CH4 (ppb)": 1769.315
+  },
+  {
+    "Year": 1998,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1764.7,
+    "WDCGG CH4 (ppb)": 1772.4,
+    "CH4 (ppb)": 1768.55
+  },
+  {
+    "Year": 1998,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1760.19,
+    "WDCGG CH4 (ppb)": 1770.4,
+    "CH4 (ppb)": 1765.295
+  },
+  {
+    "Year": 1998,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1774.06,
+    "WDCGG CH4 (ppb)": 1788.7,
+    "CH4 (ppb)": 1781.38
+  },
+  {
+    "Year": 1999,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1775,
+    "WDCGG CH4 (ppb)": 1781.8,
+    "CH4 (ppb)": 1778.4
+  },
+  {
+    "Year": 1999,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1764.67,
+    "WDCGG CH4 (ppb)": 1777.3,
+    "CH4 (ppb)": 1770.985
+  },
+  {
+    "Year": 1999,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1777.29,
+    "WDCGG CH4 (ppb)": 1790.9,
+    "CH4 (ppb)": 1784.095
+  },
+  {
+    "Year": 2000,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1777.31,
+    "WDCGG CH4 (ppb)": 1783.5,
+    "CH4 (ppb)": 1780.405
+  },
+  {
+    "Year": 2000,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1765.58,
+    "WDCGG CH4 (ppb)": 1777.6,
+    "CH4 (ppb)": 1771.59
+  },
+  {
+    "Year": 2000,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1775.41,
+    "WDCGG CH4 (ppb)": 1790.5,
+    "CH4 (ppb)": 1782.955
+  },
+  {
+    "Year": 2001,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1773.87,
+    "WDCGG CH4 (ppb)": 1781.7,
+    "CH4 (ppb)": 1777.785
+  },
+  {
+    "Year": 2001,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1764.31,
+    "WDCGG CH4 (ppb)": 1777.6,
+    "CH4 (ppb)": 1770.955
+  },
+  {
+    "Year": 2001,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1775.95,
+    "WDCGG CH4 (ppb)": 1790.4,
+    "CH4 (ppb)": 1783.175
+  },
+  {
+    "Year": 2002,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1772.75,
+    "WDCGG CH4 (ppb)": 1781.4,
+    "CH4 (ppb)": 1777.075
+  },
+  {
+    "Year": 2002,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1766.85,
+    "WDCGG CH4 (ppb)": 1780,
+    "CH4 (ppb)": 1773.425
+  },
+  {
+    "Year": 2002,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1779.67,
+    "WDCGG CH4 (ppb)": 1793.3,
+    "CH4 (ppb)": 1786.485
+  },
+  {
+    "Year": 2003,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1775.8,
+    "WDCGG CH4 (ppb)": 1785.6,
+    "CH4 (ppb)": 1780.7
+  },
+  {
+    "Year": 2003,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1774.3,
+    "WDCGG CH4 (ppb)": 1783.2,
+    "CH4 (ppb)": 1778.75
+  },
+  {
+    "Year": 2003,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1783.59,
+    "WDCGG CH4 (ppb)": 1797.2,
+    "CH4 (ppb)": 1790.395
+  },
+  {
+    "Year": 2004,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1780.71,
+    "WDCGG CH4 (ppb)": 1787.1,
+    "CH4 (ppb)": 1783.905
+  },
+  {
+    "Year": 2004,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1769.79,
+    "WDCGG CH4 (ppb)": 1781.7,
+    "CH4 (ppb)": 1775.745
+  },
+  {
+    "Year": 2004,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1778.4,
+    "WDCGG CH4 (ppb)": 1793.5,
+    "CH4 (ppb)": 1785.95
+  },
+  {
+    "Year": 2005,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1774.58,
+    "WDCGG CH4 (ppb)": 1784.4,
+    "CH4 (ppb)": 1779.49
+  },
+  {
+    "Year": 2005,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1768.03,
+    "WDCGG CH4 (ppb)": 1781.2,
+    "CH4 (ppb)": 1774.615
+  },
+  {
+    "Year": 2005,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1780.3,
+    "WDCGG CH4 (ppb)": 1795.5,
+    "CH4 (ppb)": 1787.9
+  },
+  {
+    "Year": 2006,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1776.12,
+    "WDCGG CH4 (ppb)": 1785,
+    "CH4 (ppb)": 1780.56
+  },
+  {
+    "Year": 2006,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1767.21,
+    "WDCGG CH4 (ppb)": 1780.1,
+    "CH4 (ppb)": 1773.655
+  },
+  {
+    "Year": 2006,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1779.97,
+    "WDCGG CH4 (ppb)": 1794.8,
+    "CH4 (ppb)": 1787.385
+  },
+  {
+    "Year": 2007,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1781.12,
+    "WDCGG CH4 (ppb)": 1789.1,
+    "CH4 (ppb)": 1785.11
+  },
+  {
+    "Year": 2007,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1777.19,
+    "WDCGG CH4 (ppb)": 1788.1,
+    "CH4 (ppb)": 1782.645
+  },
+  {
+    "Year": 2007,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1788.21,
+    "WDCGG CH4 (ppb)": 1804.3,
+    "CH4 (ppb)": 1796.255
+  },
+  {
+    "Year": 2008,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1786.88,
+    "WDCGG CH4 (ppb)": 1796.6,
+    "CH4 (ppb)": 1791.74
+  },
+  {
+    "Year": 2008,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1781.05,
+    "WDCGG CH4 (ppb)": 1794.5,
+    "CH4 (ppb)": 1787.775
+  },
+  {
+    "Year": 2008,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1796.62,
+    "WDCGG CH4 (ppb)": 1812.2,
+    "CH4 (ppb)": 1804.41
+  },
+  {
+    "Year": 2009,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1795.55,
+    "WDCGG CH4 (ppb)": 1802.8,
+    "CH4 (ppb)": 1799.175
+  },
+  {
+    "Year": 2009,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1788.83,
+    "WDCGG CH4 (ppb)": 1800.2,
+    "CH4 (ppb)": 1794.515
+  },
+  {
+    "Year": 2009,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1796.72,
+    "WDCGG CH4 (ppb)": 1813.2,
+    "CH4 (ppb)": 1804.96
+  },
+  {
+    "Year": 2010,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1799.64,
+    "WDCGG CH4 (ppb)": 1807.6,
+    "CH4 (ppb)": 1803.62
+  },
+  {
+    "Year": 2010,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1794.09,
+    "WDCGG CH4 (ppb)": 1804.7,
+    "CH4 (ppb)": 1799.395
+  },
+  {
+    "Year": 2010,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1803.66,
+    "WDCGG CH4 (ppb)": 1820.4,
+    "CH4 (ppb)": 1812.03
+  },
+  {
+    "Year": 2011,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1802.89,
+    "WDCGG CH4 (ppb)": 1811.7,
+    "CH4 (ppb)": 1807.295
+  },
+  {
+    "Year": 2011,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1799.05,
+    "WDCGG CH4 (ppb)": 1810.8,
+    "CH4 (ppb)": 1804.925
+  },
+  {
+    "Year": 2011,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1810.06,
+    "WDCGG CH4 (ppb)": 1825.2,
+    "CH4 (ppb)": 1817.63
+  },
+  {
+    "Year": 2012,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1808.49,
+    "WDCGG CH4 (ppb)": 1817.7,
+    "CH4 (ppb)": 1813.095
+  },
+  {
+    "Year": 2012,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1803.3,
+    "WDCGG CH4 (ppb)": 1815,
+    "CH4 (ppb)": 1809.15
+  },
+  {
+    "Year": 2012,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1814.61,
+    "WDCGG CH4 (ppb)": 1832,
+    "CH4 (ppb)": 1823.305
+  },
+  {
+    "Year": 2013,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1812.82,
+    "WDCGG CH4 (ppb)": 1824,
+    "CH4 (ppb)": 1818.41
+  },
+  {
+    "Year": 2013,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1808.4,
+    "WDCGG CH4 (ppb)": 1821.2,
+    "CH4 (ppb)": 1814.8
+  },
+  {
+    "Year": 2013,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1819.35,
+    "WDCGG CH4 (ppb)": 1836.6,
+    "CH4 (ppb)": 1827.975
+  },
+  {
+    "Year": 2014,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1820.89,
+    "WDCGG CH4 (ppb)": 1831.4,
+    "CH4 (ppb)": 1826.145
+  },
+  {
+    "Year": 2014,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1819.72,
+    "WDCGG CH4 (ppb)": 1831.2,
+    "CH4 (ppb)": 1825.46
+  },
+  {
+    "Year": 2014,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1833.56,
+    "WDCGG CH4 (ppb)": 1849.5,
+    "CH4 (ppb)": 1841.53
+  },
+  {
+    "Year": 2015,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1833.15,
+    "WDCGG CH4 (ppb)": 1840.6,
+    "CH4 (ppb)": 1836.875
+  },
+  {
+    "Year": 2015,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1829.16,
+    "WDCGG CH4 (ppb)": 1841.7,
+    "CH4 (ppb)": 1835.43
+  },
+  {
+    "Year": 2015,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1844.91,
+    "WDCGG CH4 (ppb)": 1858.4,
+    "CH4 (ppb)": 1851.655
+  },
+  {
+    "Year": 2016,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1843.74,
+    "WDCGG CH4 (ppb)": 1850.6,
+    "CH4 (ppb)": 1847.17
+  },
+  {
+    "Year": 2016,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1836.69,
+    "WDCGG CH4 (ppb)": 1849.9,
+    "CH4 (ppb)": 1843.295
+  },
+  {
+    "Year": 2016,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1851.07,
+    "WDCGG CH4 (ppb)": 1864.9,
+    "CH4 (ppb)": 1857.985
+  },
+  {
+    "Year": 2017,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1848.54,
+    "WDCGG CH4 (ppb)": 1857.2,
+    "CH4 (ppb)": 1852.87
+  },
+  {
+    "Year": 2017,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1844.62,
+    "WDCGG CH4 (ppb)": 1856.1,
+    "CH4 (ppb)": 1850.36
+  },
+  {
+    "Year": 2017,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1856.53,
+    "WDCGG CH4 (ppb)": 1873.4,
+    "CH4 (ppb)": 1864.965
+  },
+  {
+    "Year": 2018,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1856.68,
+    "WDCGG CH4 (ppb)": 1867.5,
+    "CH4 (ppb)": 1862.09
+  },
+  {
+    "Year": 2018,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1851.92,
+    "WDCGG CH4 (ppb)": 1866.4,
+    "CH4 (ppb)": 1859.16
+  },
+  {
+    "Year": 2018,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1866.04,
+    "WDCGG CH4 (ppb)": 1882,
+    "CH4 (ppb)": 1874.02
+  },
+  {
+    "Year": 2019,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1865.31,
+    "WDCGG CH4 (ppb)": 1875.6,
+    "CH4 (ppb)": 1870.455
+  },
+  {
+    "Year": 2019,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1862.9,
+    "WDCGG CH4 (ppb)": 1874.8,
+    "CH4 (ppb)": 1868.85
+  },
+  {
+    "Year": 2019,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1874.69,
+    "WDCGG CH4 (ppb)": 1889,
+    "CH4 (ppb)": 1881.845
+  },
+  {
+    "Year": 2020,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1875.87,
+    "WDCGG CH4 (ppb)": 1885.6,
+    "CH4 (ppb)": 1880.735
+  },
+  {
+    "Year": 2020,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1876.53,
+    "WDCGG CH4 (ppb)": 1886.1,
+    "CH4 (ppb)": 1881.315
+  },
+  {
+    "Year": 2020,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1891.8,
+    "WDCGG CH4 (ppb)": 1905.2,
+    "CH4 (ppb)": 1898.5
+  },
+  {
+    "Year": 2021,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1891.24,
+    "WDCGG CH4 (ppb)": 1900.7,
+    "CH4 (ppb)": 1895.97
+  },
+  {
+    "Year": 2021,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1892.62,
+    "WDCGG CH4 (ppb)": 1903.7,
+    "CH4 (ppb)": 1898.16
+  },
+  {
+    "Year": 2021,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1908.78,
+    "WDCGG CH4 (ppb)": 1923.9,
+    "CH4 (ppb)": 1916.34
+  },
+  {
+    "Year": 2022,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1909.55,
+    "WDCGG CH4 (ppb)": 1918.5,
+    "CH4 (ppb)": 1914.025
+  },
+  {
+    "Year": 2022,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1908.74,
+    "WDCGG CH4 (ppb)": 1918.9,
+    "CH4 (ppb)": 1913.82
+  },
+  {
+    "Year": 2022,
+    "Month": 12,
+    "NOAA CH4 (ppb)": 1924.68,
+    "WDCGG CH4 (ppb)": 1936.2,
+    "CH4 (ppb)": 1930.44
+  },
+  {
+    "Year": 2023,
+    "Month": 4,
+    "NOAA CH4 (ppb)": 1920.69,
+    "WDCGG CH4 (ppb)": 1920.69,
+    "CH4 (ppb)": 1920.69
+  },
+  {
+    "Year": 2023,
+    "Month": 8,
+    "NOAA CH4 (ppb)": 1919.15,
+    "WDCGG CH4 (ppb)": 1919.15,
+    "CH4 (ppb)": 1919.15
+  }
+]
