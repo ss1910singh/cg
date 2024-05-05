@@ -87,9 +87,9 @@ const Home = () => {
 				</div>
 
 				<div
-					className='h-screen w-screen flex flex-col justify-center items-center snap-center'
+					className='h-screen w-screen flex flex-col justify-center items-center snap-center pt-20'
 					id='second'>
-					<div className='font-bold text-white text-6xl mb-10'>
+					<div className='font-bold text-white text-6xl mb-10 pt-20'>
 						Explore👀
 					</div>
 					<div className='font-bold text-white text-xl mb-8'>
