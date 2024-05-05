@@ -1,12 +1,5 @@
 'use client'
 import TiltCard from '@/components/ui/TiltCard'
-import {
-	Carousel,
-	CarouselContent,
-	CarouselItem,
-	CarouselNext,
-	CarouselPrevious,
-} from '@/components/ui/carousel'
 import { Stars } from '@react-three/drei'
 import { Canvas } from '@react-three/fiber'
 import {
@@ -126,7 +119,7 @@ const Home = () => {
 					</div>
 				</div>
 
-{/* 				<div className='h-screen w-screen flex flex-col justify-center items-center snap-center gap-y-10'>
+				{/* <div className='h-screen w-screen flex flex-col justify-center items-center snap-center gap-y-10'>
 					<div className='font-bold text-white text-6xl mb-10 mt-16'>
 						Learn🧠 About Climate Change
 					</div>
@@ -279,8 +272,8 @@ const Home = () => {
 							<CarouselPrevious />
 							<CarouselNext />
 						</Carousel>
-					</div> */}
-				</div>
+					</div>
+				</div> */}
 			</div>
 		</main>
 	)
