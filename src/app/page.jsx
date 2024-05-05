@@ -279,15 +279,8 @@ const Home = () => {
 							<CarouselPrevious />
 							<CarouselNext />
 						</Carousel>
-					</div>
-					{/* <div className="">
-            <a href="/learnmore"><ButtonWrapper/></a>
-          </div> */}
+					</div> */}
 				</div>
-
-				{/* <div className="h-screen w-screen flex w-full justify-center items-center bg-green-300 snap-center">
-        <h1>Fourth page</h1>
-      </div> */} */}
 			</div>
 		</main>
 	)
